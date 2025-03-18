@@ -1,0 +1,116 @@
+1
+00:00:00,210 --> 00:00:01,830
+Hello, friend, welcome back.
+
+2
+00:00:02,070 --> 00:00:09,220
+In this video, I'll discuss about iOS, every JavaScript program, I should know about this iOS six.
+
+3
+00:00:09,240 --> 00:00:12,300
+In this course, I will use this keyword lots of time.
+
+4
+00:00:12,420 --> 00:00:13,340
+So better to know.
+
+5
+00:00:13,350 --> 00:00:15,740
+Little idea about this later.
+
+6
+00:00:15,750 --> 00:00:19,920
+I will also convert one total another section for these iOS six.
+
+7
+00:00:20,010 --> 00:00:23,150
+What is iOS six full meaning of iOS six?
+
+8
+00:00:23,160 --> 00:00:24,330
+Is it my script?
+
+9
+00:00:24,330 --> 00:00:31,560
+Six Here it means an organization which is responsible for defining a standard in general concept.
+
+10
+00:00:31,560 --> 00:00:36,870
+iOS six is modern update of JavaScript, widely known as Chair six.
+
+11
+00:00:36,870 --> 00:00:39,600
+Here six is the JavaScript version name.
+
+12
+00:00:39,900 --> 00:00:43,110
+So what is the latest version of JavaScript in now?
+
+13
+00:00:43,110 --> 00:00:49,890
+When I'm recording this course is 2015 is the latest version of JavaScript programming languages.
+
+14
+00:00:50,160 --> 00:00:55,020
+It is the first major update to JavaScript since 1997.
+
+15
+00:00:55,290 --> 00:00:59,820
+It was approved in June 2015 by EMI International.
+
+16
+00:01:00,030 --> 00:01:05,790
+As I told you, that is one of the association responsible for approving EMI standards switch programming
+
+17
+00:01:05,790 --> 00:01:09,270
+languages like JavaScript, Coffee Scripts and TypeScript.
+
+18
+00:01:10,140 --> 00:01:16,990
+The name of this version of JavaScript has undergone multiple changes, starting from Harmony to iOS
+
+19
+00:01:17,010 --> 00:01:24,510
+six two years 2015 before EA's 2015 EMI script was named after the version number.
+
+20
+00:01:24,630 --> 00:01:31,500
+It was only recently that it was decided that it will be name according of the year of release.
+
+21
+00:01:31,680 --> 00:01:36,010
+For that reason, the name change is seeks two years 2015.
+
+22
+00:01:36,030 --> 00:01:38,850
+I hope you get some idea about iOS six.
+
+23
+00:01:39,000 --> 00:01:45,510
+Later will go more deep suffering in our next video, and instead another session is will be JavaScript
+
+24
+00:01:45,510 --> 00:01:47,070
+variable and other types.
+
+25
+00:01:47,250 --> 00:01:49,320
+Everything I will cover one by one.
+
+26
+00:01:49,320 --> 00:01:50,400
+I hope you like it.
+
+27
+00:01:50,400 --> 00:01:51,450
+Very much so.
+
+28
+00:01:51,450 --> 00:01:52,500
+Thanks for watching.
+
+29
+00:01:52,510 --> 00:01:54,450
+I will see you in the next video.
+
